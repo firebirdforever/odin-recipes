@@ -1,0 +1,15 @@
+.header {
+    background-color: rgb(0, 135, 135);
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sub {
+    color: darkred;
+    font-size: 40px;
+}
+
+.list {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}

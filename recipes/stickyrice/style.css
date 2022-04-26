@@ -1,0 +1,25 @@
+body {
+    background-color: #73275c;
+    color: white;
+}
+
+.header {
+    text-align: center;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+}
+
+ol {
+    display: table;
+    margin: 0 auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
